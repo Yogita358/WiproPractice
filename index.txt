@@ -1,0 +1,5 @@
+Q1: What is Java?
+A: Java is a high-level programming language and computing platform.
+
+Q2: What is JVM?
+A: JVM stands for Java Virtual Machine, which is an abstract computing machine.
